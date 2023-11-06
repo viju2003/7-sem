@@ -2,7 +2,7 @@
 
 - Bt
 - 3
-   https://www.buybitcoinbank.com/cryptocurrency/add-polygon-mumbai-to-metamask
+  + https://www.buybitcoinbank.com/cryptocurrency/add-polygon-mumbai-to-metamask
   
   - Network name: Mumbai 
   - Network URL: https://rpc-mumbai.maticvigil.com 
@@ -10,10 +10,10 @@
   - Currency symbol: MATIC 
   - Block explorer URL: https://mumbai.polygonscan.com
 
-   - https://faucet.quicknode.com/polygon/mumbai
-     
++  https://faucet.quicknode.com/polygon/mumbai
+
++ go to https://remix.ethereum.org/ and pest the code 
    - Bank.sol
-     
    - // SPDX-License-Identifier: UNLICENSED
 pragma solidity >=0.8.0;
 
